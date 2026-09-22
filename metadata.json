@@ -1,0 +1,6 @@
+{
+  "name": "Calcul Mental Baht en Euro",
+  "description": "Application d'entraînement au calcul mental pour convertir les Bahts thaïlandais (THB) en Euros (€) avec la méthode /10, /4 puis +5%.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
